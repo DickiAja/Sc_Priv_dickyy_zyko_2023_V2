@@ -9514,7 +9514,7 @@ Angin: ${json.wind.speed} km/jam
             m.chat,
             {
               video: { url: data[0].download_link },
-              caption: "Instagram Downloader By FongsiDev",
+              caption: "Instagram Downloader By SunShine",
             },
             { quoted: m },
           );
