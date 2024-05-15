@@ -9777,7 +9777,7 @@ ${footer}
                 m.chat,
                 {
                   image: { url: x },
-                  caption: `Tiktok Slide #${i + 1} Downloader\nBy FongsiDev`,
+                  caption: `Tiktok Slide #${i + 1} Downloader\nBy SunShine`,
                 },
                 { quoted: m },
               );
